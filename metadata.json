@@ -1,0 +1,8 @@
+{
+  "name": "Sistem Pembayaran SPP - Cekmobil",
+  "description": "Sistem Pembayaran SPP & Administrasi Keuangan Siswa SMK Otomotif Cekmobil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
